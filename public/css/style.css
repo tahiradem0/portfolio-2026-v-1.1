@@ -588,6 +588,10 @@ p {
     transform: scale(1.2);
 }
 
+.experience-section {
+    padding: 0.5rem var(--spacing-md)
+}
+
 /* Experience Section (Clean List) */
 .experience-list {
     display: flex;
