@@ -1,0 +1,9 @@
+.projects-section {
+    z-index: 20;
+    position: relative;
+    background-color: var(--color-bg);
+    /* Ensure solid background to cover About */
+    padding-top: var(--spacing-md);
+    box-shadow: 0 -20px 40px rgba(0, 0, 0, 0.05);
+    /* Slight shadow to separate from About */
+}
