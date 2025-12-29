@@ -7,7 +7,7 @@ const STATIC_PROJECTS = [
     {
         title: "E-Commerce Luxury",
         description: "A high-fidelity shopping experience with 3D product previews.",
-        imageUrl: "./css/Pro5Pro.png",
+        imageUrl: "./css/Pro5.png",
         demoLink: "#",
         repoLink: "#"
     },
