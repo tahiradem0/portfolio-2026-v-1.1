@@ -8,22 +8,29 @@ const STATIC_PROJECTS = [
         title: "E-Commerce Luxury",
         description: "A high-fidelity shopping experience with 3D product previews.",
         imageUrl: "./css/Pro5.png",
+        demoLink: "https://tele-suk.vercel.app",
+        repoLink: "https://tele-suk.vercel.app"
+    },
+    {
+        title: "RentSyS",
+        description: "Real time home and office renting system to communicate tenant and property owner",
+        imageUrl: "./css/Pro1.png",
         demoLink: "#",
         repoLink: "#"
     },
-    {
-        title: "Fintech Dashboard",
-        description: "Real-time data visualization for financial assets.",
-        imageUrl: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop",
-        demoLink: "#",
-        repoLink: "#"
+        {
+        title: "Gymnify",
+        description: "A Fullstack and game changer software (SaaS) project that have fully integrated AI for exercise and nutrition recommendations",
+        imageUrl: "./css/Pro8.png",
+        demoLink: "https://gymnify-bu5z.onrender.com/",
+        repoLink: "https://gymnify-bu5z.onrender.com/"
     },
     {
-        title: "AI Chat Interface",
-        description: "Generative AI powered assistant with glassmorphic UI.",
-        imageUrl: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2670&auto=format&fit=crop",
-        demoLink: "#",
-        repoLink: "#"
+        title: "Rolex Submarine Tickets",
+        description: "Rolex submarine watch ticket selling website for my foreigner client (UAE)",
+        imageUrl: "./css/Pro2.png",
+        demoLink: "https://luxury-watch-ticket-web-hapg.onrender.com/",
+        repoLink: "https://luxury-watch-ticket-web-hapg.onrender.com/"
     }
 ];
 
