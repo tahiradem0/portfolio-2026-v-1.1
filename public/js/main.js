@@ -7,7 +7,7 @@ const STATIC_PROJECTS = [
     {
         title: "E-Commerce Luxury",
         description: "A high-fidelity shopping experience with 3D product previews.",
-        imageUrl: "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?q=80&w=2670&auto=format&fit=crop",
+        imageUrl: "./css/Pro5Pro.png",
         demoLink: "#",
         repoLink: "#"
     },
