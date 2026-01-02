@@ -9,28 +9,28 @@ const STATIC_PROJECTS = [
         description: "A high-fidelity shopping experience with 3D product previews.",
         imageUrl: "./css/Pro5.png",
         demoLink: "https://tele-suk.vercel.app",
-        repoLink: "https://tele-suk.vercel.app"
+        repoLink: "https://github.com/tahiradem0"
     },
     {
         title: "RentSyS",
         description: "Real time home and office renting system to communicate tenant and property owner",
         imageUrl: "./css/Pro1.png",
         demoLink: "#",
-        repoLink: "#"
+        repoLink: "https://github.com/tahiradem0"
     },
         {
         title: "Gymnify",
         description: "A Fullstack and game changer software (SaaS) project that have fully integrated AI for exercise and nutrition recommendations",
-        imageUrl: "./css/Pro8.png",
+        imageUrl: "./css/Pro-8.png",
         demoLink: "https://gymnify-bu5z.onrender.com/",
-        repoLink: "https://gymnify-bu5z.onrender.com/"
+        repoLink: "https://github.com/tahiradem0"
     },
     {
         title: "Rolex Submarine Tickets",
         description: "Rolex submarine watch ticket selling website for my foreigner client (UAE)",
         imageUrl: "./css/Pro2.png",
         demoLink: "https://luxury-watch-ticket-web-hapg.onrender.com/",
-        repoLink: "https://luxury-watch-ticket-web-hapg.onrender.com/"
+        repoLink: "https://github.com/tahiradem0"
     }
 ];
 
